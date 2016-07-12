@@ -6,6 +6,8 @@ package com.example.student.myserviceapp;
         import android.content.Intent;
         import android.view.View;
 
+        import com.example.MyApplication.R;
+
 public class MainActivity extends Activity {
 
     @Override
